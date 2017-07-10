@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Jul 09 16:13:23 2017
-
-@author: sundr
-"""
-
 import webbrowser
 import os
 import re
@@ -137,7 +130,7 @@ main_page_content = '''
       <div class="navbar navbar-fixed-top nav-style" role="navigation">
         <div class="container">
           <div class="navbar-header">
-            <a class="navbar-brands" href="#">Fresh Tomatoes Movie Trailers</a>
+            <h1><a class="navbar-brands text-center" href="#">Fresh Tomatoes Movie Trailers</a><h1>
           </div>
         </div>
       </div>
